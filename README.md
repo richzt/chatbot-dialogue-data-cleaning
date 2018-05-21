@@ -25,9 +25,13 @@ After several iterations, the quality of data can be improved.
 In this project, the environment as fellows:
 
 python3.5
+
 jieba
+
 glove embedding
+
 tensorflow 1.4
+
 
 reference:
 https://github.com/dennybritz/chatbot-retrieval
